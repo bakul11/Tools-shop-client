@@ -1,0 +1,44 @@
+[
+    {
+        "name":"belt sanders",
+        "discription":"Provide Professional Sanding Belts, Customize Dimensions and Grits, Order now. China Leading Supplier. Trusted Manufacturer. Competitive Price. Export Global. 100% Buyer Protection",
+        "price":400,
+        "quantity":12,
+        "photo":"https://i.ibb.co/VxzCy92/bealt-sanders.jpg"
+    },
+    {
+        "name":"curcular saws",
+        "discription":"A circular saw is a power-saw using a toothed or abrasive disc or blade to cut different materials using a rotary motion spinning around an arbor Circular saws use a toothed or abrasive ",
+        "price":600,
+        "quantity":8,
+        "photo":"https://i.ibb.co/wKvXwfm/cutting.jpg"
+    },
+    {
+        "name":"drills mechine",
+        "discription":"The drilling machine is one of the most important machines in a workshop. As regards its importance it is second only to the lathe machines. Holes were drilled by the Egyptians in 1200 B.C..",
+        "price":900,
+        "quantity":60,
+        "photo":"https://i.ibb.co/dMm9sLJ/drills.jpg"
+    },
+     {
+        "name":"grinders",
+        "discription":"Easy and safe to use grinders by Bosch are the reason customers rave about our metalworking tools. Explore our X-LOCK tools to read reviews on our best Grinding: name suggests, angle grinders are great",
+        "price":500,
+        "quantity":70,
+        "photo":"https://i.ibb.co/48dYfnH/grinders.webp"
+    },
+     {
+        "name":"screwdrive",
+        "discription":"A screwdriver is a tool, manual or powered, used for driving screws. A typical simple screwdriver has a handle and a shaft, ending in a tip the user puts into the screw head before turning the handl",
+        "price":1200,
+        "quantity":80,
+        "photo":"https://i.ibb.co/0Cfb3TC/screwdriver.webp"
+    },
+     {
+        "name":"hammer drills",
+        "discription":"A hammer drill, also known as a percussion drill or impact drill, is a power tool used chiefly for drilling in hard materials. It is a type of rotary drill with an impact mechanism that generates a hammering motion",
+        "price":900,
+        "quantity":60,
+        "photo":"https://i.ibb.co/XJytQp1/Circular-Saw.jpg"
+    }
+]

@@ -1,0 +1,15 @@
+.navbar {
+    background: linear-gradient(45deg, #1a31ab, #2b8b5e);
+    /* border-bottom: 1px solid #f7efef;
+    border-top: 1px solid #f7efef; */
+}
+button.logout {
+    background: none;
+    border: none;
+    color: white;
+}
+
+
+.navbar .active{
+    color: rgb(235, 200, 2)!important;
+}
