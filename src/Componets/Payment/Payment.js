@@ -13,7 +13,7 @@ const Payment = () => {
     console.log(product);
 
     useEffect(() => {
-        const url = `https://warm-citadel-67270.herokuapp.com/getPayment/${id}`;
+        const url = `https://afternoon-refuge-96808.herokuapp.com/getPayment/${id}`;
         fetch(url)
             .then(res => res.json())
             .then(data => setProduct(data))

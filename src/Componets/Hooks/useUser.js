@@ -8,7 +8,7 @@ const useUser = user => {
         const curentUser = { email: email };
 
         if (email) {
-            const url = `https://warm-citadel-67270.herokuapp.com/user/${email}`;
+            const url = `https://afternoon-refuge-96808.herokuapp.com/user/${email}`;
             fetch(url, {
                 method: 'PUT',
                 headers: {

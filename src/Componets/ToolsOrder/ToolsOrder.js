@@ -13,7 +13,7 @@ const ToolsOrder = () => {
     const [tools, setTools] = useState({});
 
     useEffect(() => {
-        const url = `https://warm-citadel-67270.herokuapp.com/tools/${id}`;
+        const url = `https://afternoon-refuge-96808.herokuapp.com/tools/${id}`;
         fetch(url)
             .then(res => res.json())
             .then(data => setTools(data))

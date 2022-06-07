@@ -8,7 +8,7 @@ const Review = () => {
     const navigate = useNavigate();
 
     const onSubmit = data => {
-        fetch('https://warm-citadel-67270.herokuapp.com/review', {
+        fetch('https://afternoon-refuge-96808.herokuapp.com/review', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

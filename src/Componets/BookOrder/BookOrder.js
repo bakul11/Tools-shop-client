@@ -28,7 +28,7 @@ const BookOrder = ({ modalIsOpen, closeModal, tools }) => {
     const navigate = useNavigate();
     // Booking Order 
     const onSubmit = data => {
-        const url = 'https://warm-citadel-67270.herokuapp.com/booking';
+        const url = 'https://afternoon-refuge-96808.herokuapp.com/booking';
         fetch(url, {
             method: 'POST',
             headers: {

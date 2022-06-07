@@ -46,7 +46,7 @@ const CheckoutForm = ({ product }) => {
                 transitionId: paymentId
             }
 
-            const url = `https://warm-citadel-67270.herokuapp.com/booking/${newId}`;
+            const url = `https://afternoon-refuge-96808.herokuapp.com/booking/${newId}`;
 
             fetch(url, {
                 method: "PATCH",

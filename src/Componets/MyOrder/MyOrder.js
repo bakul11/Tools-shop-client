@@ -17,7 +17,7 @@ const MyOrder = () => {
     const email = user?.email;
 
     useEffect(() => {
-        const url = `https://warm-citadel-67270.herokuapp.com/myOrder?email=${email}`;
+        const url = `https://afternoon-refuge-96808.herokuapp.com/myOrder?email=${email}`;
         fetch(url)
             .then(res => res.json())
             .then(data => setOrder(data))
@@ -31,7 +31,7 @@ const MyOrder = () => {
         const removeConfirm = window.confirm('Do You Want Delete This Product?');
 
         if (removeConfirm) {
-            const url = `https://warm-citadel-67270.herokuapp.com/orderDelete/${id}`;
+            const url = `https://afternoon-refuge-96808.herokuapp.com/orderDelete/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })
